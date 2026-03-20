@@ -3,7 +3,7 @@
 1. Run the following to install the necessary packages:
 pip install torch torchvision numpy
 
-2. Run the following to craete the weights:
+2. Run the following to create the weights:
 python train_lenet5.py
 
 3. Copy the lenet.v code into the design.sv pane in EDA Playground.
